@@ -1,2 +1,1 @@
-# GMHiki.github.io
-FT Website Test
+ok
