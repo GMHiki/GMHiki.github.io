@@ -1,0 +1,51 @@
+//--------------------------------------------------------------------------------------------------------------------//
+// Fonts 
+//--------------------------------------------------------------------------------------------------------------------//
+
+@font-face {
+	font-family: 'Fritz';
+	src:    local('Fritz Regular'),
+			local('Fritz-Regular'),
+			url('../fonts/fritz/Fritz.eot'),
+			url('../fonts/fritz/Fritz.woff') format('woff'),
+			url('../fonts/fritz/Fritz.ttf') format('truetype'),
+			url('../fonts/fritz/Fritz.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Fritz';
+	src:    local('Fritz Bold'),
+			local('Fritz-Bold'),
+			url('../fonts/fritz/Fritz-Bold.eot'),
+			url('../fonts/fritz/Fritz-Bold.woff') format('woff'),
+			url('../fonts/fritz/Fritz-Bold.ttf') format('truetype'),
+			url('../fonts/fritz/Fritz-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Intro';
+	src:    local('Intro Regular'),
+			local('Intro-Regular'),
+			url('../fonts/intro/Intro-Regular.eot'),
+			url('../fonts/intro/Intro-Regular.woff') format('woff'),
+			url('../fonts/intro/Intro-Regular.ttf') format('truetype'),
+			url('../fonts/intro/Intro-Regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Intro';
+	src:    local('Intro Bold'),
+			local('Intro-Bold'),
+			url('../fonts/intro/Intro-Bold.eot'),
+			url('../fonts/intro/Intro-Bold.woff') format('woff'),
+			url('../fonts/intro/Intro-Bold.ttf') format('truetype'),
+			url('../fonts/intro/Intro-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
